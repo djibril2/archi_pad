@@ -1,0 +1,69 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Business Process Map View"
+    id="id-1920d5208f2642ebb7e3fd9a6fb29efc"
+    hintTitle="Vue processus  : le plan d'occupation de sol "
+    hintContent="Le plan d'occupation du sol permet d'avoir une vue d'ensemble des macro processus de l'entreprise.">
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-95c60d6c19584211ba16ffbf2cb899a9"
+      fillColor="#ffff95"
+      content="PROCESSUS DE MANAGEMENT "
+      borderColor="#C0C0C0">
+    <bounds
+        x="84"
+        y="36"
+        width="949"
+        height="193"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-479ddb4cd8f941f99f3bc52af908f9e8"
+      fillColor="#d5ff95"
+      content="PROCESSUS OPERATIONNEL "
+      borderColor="#C0C0C0">
+    <bounds
+        x="84"
+        y="240"
+        width="949"
+        height="313"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-56019da7d33d4de7a4d81ccd4eb3e89c"
+      fillColor="#ff8040"
+      content="PROCESSUS SUPPORT"
+      borderColor="#C0C0C0">
+    <bounds
+        x="84"
+        y="564"
+        width="949"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-c6f7ca1cdb5843adba6e191dfc2766c5"
+      fillColor="#ffa093"
+      content="Gestion des marchandises "
+      borderColor="#C0C0C0">
+    <bounds
+        x="696"
+        y="252"
+        width="217"
+        height="145"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-1c6da3fff22b4165b15f7eb82eea5e3e">
+    <bounds
+        x="702"
+        y="276"
+        width="205"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-d9873e316f2844c0a456204f4e2c8fe9.xml#id-d9873e316f2844c0a456204f4e2c8fe9"/>
+  </children>
+</canvas:CanvasModel>
