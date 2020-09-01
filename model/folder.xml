@@ -1,6 +1,6 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Architecture du Port Autonome de Dakar (gitHub)"
+    name="Architecture (gitHub)"
     id="id-38a53aaf58474866a8a7aab9f41944ae"
     purpose="Ce modèle met en évidence les differentes couches d'architecture du Port Autonome de Dakar c'est à dire depuis la couche métier jusqu'à la couche technique. Une mise à jour frequente est effectuée sur le modèle avec des publications des schéma sur le site de publication. "
     version="4.6.0"/>

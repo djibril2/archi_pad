@@ -13,6 +13,18 @@
         y="12"
         width="241"
         height="73"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-bd3c621256c84eb3a732815d6f01c885">
+      <bounds
+          x="24"
+          y="24"
+          width="205"
+          height="37"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-7013ce35a97546bba0774c8ac4ea591c.xml#id-7013ce35a97546bba0774c8ac4ea591c"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-6548634bf5dc4857bc923e7b72faf9fc.xml#id-6548634bf5dc4857bc923e7b72faf9fc"/>
