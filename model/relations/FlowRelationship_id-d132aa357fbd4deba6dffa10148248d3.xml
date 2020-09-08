@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unidirectionnel"
+    id="id-d132aa357fbd4deba6dffa10148248d3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5e20e8a1e62b4981abcc18edcfb024b8.xml#id-5e20e8a1e62b4981abcc18edcfb024b8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-63e7980520194d96b0b0cfc740addcdf.xml#id-63e7980520194d96b0b0cfc740addcdf"/>
+</archimate:FlowRelationship>
