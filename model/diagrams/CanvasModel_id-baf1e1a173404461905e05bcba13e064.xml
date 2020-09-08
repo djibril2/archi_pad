@@ -271,7 +271,7 @@
     <bounds
         x="1380"
         y="240"
-        width="240"
+        width="264"
         height="55"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
