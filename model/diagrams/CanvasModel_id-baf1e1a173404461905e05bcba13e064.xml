@@ -25,10 +25,10 @@
       content="PROCESSUS DE MANAGEMENT "
       borderColor="#C0C0C0">
     <bounds
-        x="36"
-        y="120"
-        width="2053"
-        height="397"/>
+        x="48"
+        y="144"
+        width="2017"
+        height="325"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
@@ -38,10 +38,10 @@
       content="PROCESSUS OPERATIONNEL "
       borderColor="#C0C0C0">
     <bounds
-        x="36"
-        y="528"
-        width="2053"
-        height="709"/>
+        x="54"
+        y="480"
+        width="2017"
+        height="757"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
@@ -51,9 +51,9 @@
       content="PROCESSUS SUPPORT"
       borderColor="#C0C0C0">
     <bounds
-        x="36"
-        y="1260"
-        width="2053"
+        x="54"
+        y="1248"
+        width="2017"
         height="481"/>
   </children>
   <children
@@ -64,8 +64,8 @@
       content="Management des Normes"
       borderColor="#C0C0C0">
     <bounds
-        x="48"
-        y="201"
+        x="72"
+        y="192"
         width="289"
         height="253"/>
   </children>
@@ -74,8 +74,8 @@
       id="id-024d47df4c22468bbb3f61e35ddd4620"
       fillColor="#ffffbf">
     <bounds
-        x="60"
-        y="276"
+        x="84"
+        y="267"
         width="240"
         height="55"/>
     <referencedModel
@@ -87,8 +87,8 @@
       id="id-b6dd646423f14fbc9f27664d188dd97c"
       fillColor="#ffffbf">
     <bounds
-        x="60"
-        y="372"
+        x="84"
+        y="363"
         width="240"
         height="55"/>
     <referencedModel
@@ -103,8 +103,8 @@
       content="Relation publique et&#xD;&#xA;coopération"
       borderColor="#C0C0C0">
     <bounds
-        x="360"
-        y="201"
+        x="384"
+        y="192"
         width="277"
         height="253"/>
   </children>
@@ -116,8 +116,8 @@
       content="Audit interne et&#xD;&#xA;management des risques"
       borderColor="#C0C0C0">
     <bounds
-        x="659"
-        y="201"
+        x="683"
+        y="192"
         width="301"
         height="253"/>
   </children>
@@ -129,8 +129,8 @@
       content="Stratégie"
       borderColor="#C0C0C0">
     <bounds
-        x="984"
-        y="204"
+        x="1008"
+        y="195"
         width="313"
         height="253"/>
   </children>
@@ -142,8 +142,8 @@
       content="Veille légale et règlementaire"
       borderColor="#C0C0C0">
     <bounds
-        x="1320"
-        y="204"
+        x="1344"
+        y="195"
         width="325"
         height="109"/>
   </children>
@@ -155,8 +155,8 @@
       content="Gestion et suivi des performances"
       borderColor="#C0C0C0">
     <bounds
-        x="1668"
-        y="201"
+        x="1692"
+        y="192"
         width="361"
         height="253"/>
   </children>
@@ -168,8 +168,8 @@
       content="Stratégie"
       borderColor="#C0C0C0">
     <bounds
-        x="1320"
-        y="324"
+        x="1344"
+        y="315"
         width="325"
         height="127"/>
   </children>
@@ -178,8 +178,8 @@
       id="id-653108b9ca524c0488cc9b62eaae920a"
       fillColor="#ffffbf">
     <bounds
-        x="379"
-        y="285"
+        x="403"
+        y="276"
         width="240"
         height="55"/>
     <referencedModel
@@ -191,8 +191,8 @@
       id="id-3a49d9da9df547c1bf04c8321fd1a785"
       fillColor="#ffffbf">
     <bounds
-        x="379"
-        y="360"
+        x="403"
+        y="351"
         width="240"
         height="55"/>
     <referencedModel
@@ -204,8 +204,8 @@
       id="id-801d42a89e5747868f1e043b807b023e"
       fillColor="#ffffbf">
     <bounds
-        x="696"
-        y="276"
+        x="720"
+        y="267"
         width="240"
         height="55"/>
     <referencedModel
@@ -217,8 +217,8 @@
       id="id-c45752c8aef3485b8ec7279923a8cad4"
       fillColor="#ffffbf">
     <bounds
-        x="690"
-        y="360"
+        x="714"
+        y="351"
         width="240"
         height="55"/>
     <referencedModel
@@ -230,8 +230,8 @@
       id="id-0246be32f01344e29a0a3aaa4e44af65"
       fillColor="#ffffbf">
     <bounds
-        x="1017"
-        y="249"
+        x="1041"
+        y="240"
         width="228"
         height="53"/>
     <referencedModel
@@ -243,8 +243,8 @@
       id="id-a21917d4ac24446f8116e3c3292c5aa7"
       fillColor="#ffffbf">
     <bounds
-        x="1018"
-        y="312"
+        x="1042"
+        y="303"
         width="226"
         height="55"/>
     <referencedModel
@@ -256,8 +256,8 @@
       id="id-269583cdfc0c458086ae3e182cb9d433"
       fillColor="#ffffbf">
     <bounds
-        x="1015"
-        y="384"
+        x="1039"
+        y="375"
         width="232"
         height="55"/>
     <referencedModel
@@ -269,8 +269,8 @@
       id="id-73714a0e24424fae9a6cd41deacb7d14"
       fillColor="#ffffbf">
     <bounds
-        x="1356"
-        y="249"
+        x="1380"
+        y="240"
         width="240"
         height="55"/>
     <referencedModel
@@ -282,8 +282,8 @@
       id="id-2964ca1a8f7c438e9f597f0313bf2ae5"
       fillColor="#ffffbf">
     <bounds
-        x="1356"
-        y="360"
+        x="1380"
+        y="351"
         width="264"
         height="37"/>
     <referencedModel
@@ -295,8 +295,8 @@
       id="id-e83969238efe460d8a752af45f4e0c69"
       fillColor="#ffffbf">
     <bounds
-        x="1356"
-        y="402"
+        x="1380"
+        y="393"
         width="264"
         height="37"/>
     <referencedModel
@@ -308,8 +308,8 @@
       id="id-587a375bce714139a670f915bd3a38bd"
       fillColor="#ffffbf">
     <bounds
-        x="1692"
-        y="231"
+        x="1716"
+        y="222"
         width="288"
         height="35"/>
     <referencedModel
@@ -321,8 +321,8 @@
       id="id-89196932d886479e99fe6828af8688f1"
       fillColor="#ffffbf">
     <bounds
-        x="1692"
-        y="283"
+        x="1716"
+        y="274"
         width="288"
         height="41"/>
     <referencedModel
@@ -334,8 +334,8 @@
       id="id-6bf181e7fcb7460bab8247aefff978d2"
       fillColor="#ffffbf">
     <bounds
-        x="1692"
-        y="339"
+        x="1716"
+        y="330"
         width="288"
         height="37"/>
     <referencedModel
@@ -347,8 +347,8 @@
       id="id-5d98a6b3e61c4761b68f94c4cae29218"
       fillColor="#ffffbf">
     <bounds
-        x="1692"
-        y="393"
+        x="1716"
+        y="384"
         width="288"
         height="47"/>
     <referencedModel
